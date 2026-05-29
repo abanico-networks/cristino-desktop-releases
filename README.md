@@ -12,9 +12,13 @@
 
 ## ¿Qué es Cristino Desktop?
 
-Cristino Desktop es una aplicación nativa para macOS que permite optimizar imágenes de forma rápida y sencilla utilizando la [API Cristino](https://cristino.abanico.info), potenciada por ShortPixel.
+Cristino Desktop es una aplicación nativa para macOS que permite optimizar imágenes de forma rápida y sencilla a través de la API Cristino.
 
 La aplicación está desarrollada por **Abanico Networks** y es de uso interno para el equipo y los clientes de la agencia.
+
+## El nombre
+
+La API que usa esta aplicación se llama Cristino en homenaje al maestro **Cristino de Vera** (1931–2026), pintor español cuya obra, caracterizada por la austeridad y la profundidad, representa la esencia misma de hacer más con menos.
 
 ## Características
 
